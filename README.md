@@ -18,9 +18,11 @@ Manage Users, Doctors, and Appointments from the Admin panel
 
 ------Steps to run the code locally--------
 
-1) npm i to install all the required packages
-2) npm run server (port:5000)
-3) cd client
-4) npm i to install all the required packages for the client side
-5) npm start (port:3000)
+First of all create .env file and in MONGO_URL variable provide your mongodb database link and in JWT_SECRET variable provide any secret value and then follow the given stpes
+
+1) "npm i" to install all the required packages
+2) "npm run server" (port:5000)
+3) "cd client"
+4) "npm i" to install all the required packages for the client side
+5) "npm start" (port:3000)
 
