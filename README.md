@@ -16,3 +16,11 @@ Notifications Functionality for Users, Admin, and Doctors
 
 Manage Users, Doctors, and Appointments from the Admin panel
 
+------Steps to run the code locally--------
+
+1) npm i to install all the required packages
+2) npm run server (port:5000)
+3) cd client
+4) npm i to install all the required packages for the client side
+5) npm start (port:3000)
+
